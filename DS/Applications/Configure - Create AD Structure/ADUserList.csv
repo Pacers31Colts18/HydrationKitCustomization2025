@@ -1,0 +1,8 @@
+SAMAccountName,Description,Password,Password Expires,Path
+CM_DJ,ConfigMgr Domain Join Account,P@ssw0rd,FALSE,"OU=JoeLoveless_ServiceAccounts,DC=joeloveless,DC=com"
+CM_Admin,ConfigMgr Admin Account,P@ssw0rd,FALSE,"OU=JoeLoveless_ServiceAccounts,DC=joeloveless,DC=com"
+JoeLovelessEA,Enterprise Admin Account,P@ssw0rd,FALSE,"OU=JoeLoveless_AdministrativeAccounts,DC=joeloveless,DC=com"
+JoeLovelessDA,Domain Admin Account,P@ssw0rd,FALSE,"OU=JoeLoveless_AdministrativeAccounts,DC=joeloveless,DC=com"
+JoeLovelessSA,Server Administrator Account,P@ssw0rd,FALSE,"OU=JoeLoveless_AdministrativeAccounts,DC=joeloveless,DC=com"
+JoeLovelessWA,Workstation Administrator Account,P@ssw0rd,FALSE,"OU=JoeLoveless_AdministrativeAccounts,DC=joeloveless,DC=com"
+Steve Rogers,Standard User,P@ssw0rd,FALSE,"OU=JoeLoveless_Users,DC=joeloveless,DC=com"

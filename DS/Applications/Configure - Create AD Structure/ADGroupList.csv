@@ -1,0 +1,3 @@
+﻿Name,Description,Password,Password Expires,Path
+JoeLoveless - ServerAdministrators,Server Administrators,P@ssw0rd,FALSE,"OU=JoeLoveless_Groups,DC=joeloveless,DC=com"
+JoeLoveless - WorkstationAdministrators,Workstation Administrators,P@ssw0rd,FALSE,"OU=JoeLoveless_Groups,DC=joeloveless,DC=com"

@@ -1,0 +1,9 @@
+Name,Path
+JoeLoveless_ServiceAccounts,"OU=JoeLoveless_ServiceAccounts,DC=joeloveless,DC=com"
+JoeLoveless_Users,"OU=JoeLoveless_Users,DC=joeloveless,DC=com"
+JoeLoveless_Workstations,"OU=JoeLoveless_Workstations,DC=joeloveless,DC=com"
+Windows_11,"OU=Windows_11,OU=JoeLoveless_Workstations,DC=joeloveless,DC=com"
+Windows_10,"OU=Windows_10,OU=JoeLoveless_Workstations,DC=joeloveless,DC=com"
+JoeLoveless_Servers,"OU=JoeLoveless_Servers,DC=joeloveless,DC=com"
+JoeLoveless_AdministrativeAccounts,"OU=JoeLoveless_AdministrativeAccounts,DC=joeloveless,DC=com"
+JoeLoveless_Groups,"OU=JoeLoveless_Groups,DC=joeloveless,DC=com"
